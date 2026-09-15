@@ -9,7 +9,8 @@
 				"file_extensions": [],
 				"files": []
 			},
-			"export_folder": "editor-panels{{version=editor_panels}}/editor_panels",
+			"export_name": "editor-panels{{version=editor_panels}}",
+			"export_folder": "addons/editor_panels",
 			"other_transfers": [],
 			"parser_overide_settings": {
 				"parse_cs": {
