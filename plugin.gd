@@ -1,7 +1,7 @@
 @tool
 extends EditorPlugin
 
-const Components = preload("res://addons/editor_panels/components/components.gd")
+const Components = preload("res://addons/editor_panels/src/components/components.gd")
 
 const Layout = EditorPanelSingleton.PluginSplitPanel.Layout
 
