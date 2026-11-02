@@ -12,12 +12,12 @@ func _get_plugin_icon() -> Texture2D:
 
 
 const _PANELS = {
-	"SceneViewer": Components.SceneViewer,
+	"Node3DViewer": Components.Node3DViewer,
 	"Collection": Components.CollectionPanel,
 }
 
 const _TABS = {
-	"SceneViewer": Components.SceneViewer,
+	"Node3DViewer": Components.Node3DViewer,
 	"Collection": Components.CollectionPanel
 }
 
